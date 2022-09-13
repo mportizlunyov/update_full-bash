@@ -1,6 +1,6 @@
 #! /usr/bin/env bash
 #
-# Updated: September 11th 2022
+# Updated: September 12th 2022
 #
 # Written by Mikhail Patricio Ortiz-Lunyov
 # This BASH script is licensed under the GNU Public License Version 3 (GPLv3).
